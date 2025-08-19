@@ -34,18 +34,15 @@ Just trying new things to figure out the best path for my career 🚀
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white) 
+![Cloudinary](https://img.shields.io/badge/cloudinary-%233498DB.svg?logo=cloudinary&logoColor=white)  
 
 ---
 
 ## 📚 Relevant Courses
 - DBMS  
 - OOP  
-- Cloud & Java (Clodanart Java)  
+
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight)  
